@@ -1,0 +1,2 @@
+Ginger Workflow Configurator Frontend
+-------------------------------------
