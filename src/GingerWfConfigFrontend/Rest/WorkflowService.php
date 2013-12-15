@@ -9,8 +9,8 @@
 namespace GingerWfConfigFrontend\Rest;
 
 use Ginger\Core\Controller\AbstractRestfulController;
-use WfConfigBackend\Facade\WorkflowFacade;
-use WfConfigBackend\Facade\WorkflowDto;
+use GingerWfConfigBackend\Facade\WorkflowFacade;
+use GingerWfConfigBackend\Facade\WorkflowDto;
 use Zend\View\Model\JsonModel;
 /**
  *  WorkflowService

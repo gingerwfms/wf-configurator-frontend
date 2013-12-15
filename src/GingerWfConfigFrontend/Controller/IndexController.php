@@ -9,7 +9,7 @@
 namespace GingerWfConfigFrontend\Controller;
 
 use Zend\Mvc\Controller\AbstractActionController;
-use WfConfigBackend\Facade\WorkflowFacade;
+use GingerWfConfigBackend\Facade\WorkflowFacade;
 /**
  * MVC Controller IndexController
  * 
