@@ -1,5 +1,6 @@
 {
     "name": "gingerwfms/wf-configurator-frontend",
+    "type": "ginger-frontend-plugin",
     "description": "The official Workflow Configurator Frontend for the Ginger WfMS",
     "license": "BSD-3-Clause",    
     "homepage": "http://www.codeliner.ws/",
@@ -30,5 +31,8 @@
         "psr-0": {            
             "GingerWfConfigFrontend\\": "module/src"
         }
+    },
+    "extra": {
+        "plugin-namespace": "GingerWfConfigFrontend"
     }
 }
